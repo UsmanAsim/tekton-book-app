@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: tekton-pod
-        image: usmanasim11/tekton-lab-app
+        image: usmanasim11/tekton-lab-app:2.0
         ports:
         - containerPort: 3000
 ---
