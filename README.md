@@ -12,12 +12,4 @@ kubectl get pods test
 testing
 testing webhook
 testing build task
-testing buid
-test 15-oct
-test webhook
-test
-test 1
-test 2
-test 3 webhook recreated
-ok
-test
+
